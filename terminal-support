@@ -1,0 +1,5 @@
+install app from file .deb
+	-sudo apt install path-file-deb
+install app from file .sh
+	-chmod +x file-sh
+	-sudo path-file-sh
